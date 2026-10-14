@@ -1,0 +1,11 @@
+{
+  "id": "flood",
+  "title": "Urban Flood \u2014 Rising Water",
+  "transcript": "The water is rising fast on Embarcadero! Cars are stuck. Several people are stranded. Flooding is getting into buildings.",
+  "lat": 37.7955,
+  "lon": -122.3937,
+  "address": "Embarcadero & Folsom (DEMO)",
+  "landmark": "Waterfront",
+  "scenario_hint": "flood",
+  "visual_overrides": null
+}

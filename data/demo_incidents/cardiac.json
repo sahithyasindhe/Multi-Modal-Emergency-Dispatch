@@ -1,0 +1,15 @@
+{
+  "id": "cardiac",
+  "title": "Cardiac Emergency",
+  "transcript": "My father collapsed. He has chest pain and is barely conscious. He's 68. We need an ambulance right now.",
+  "lat": 37.7599,
+  "lon": -122.4148,
+  "address": "Mission District residence (DEMO)",
+  "landmark": "Residential",
+  "scenario_hint": "cardiac",
+  "visual_overrides": {
+    "persons_visible": 2,
+    "persons_down": 1,
+    "scene_type": "medical"
+  }
+}

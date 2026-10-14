@@ -1,0 +1,35 @@
+{
+  "dataset": "demo_scenarios",
+  "n": 7,
+  "entity_extraction": {
+    "precision": "Not evaluated",
+    "recall": "Not evaluated",
+    "f1": "Not evaluated",
+    "note": "No token-level gold entity annotations in demo set."
+  },
+  "triage": {
+    "tier_accuracy_soft": 1.0,
+    "cohen_kappa": 0.462,
+    "score_mae": "Not evaluated",
+    "note": "Soft labels = acceptable tier sets per scenario; not a clinical gold standard."
+  },
+  "rag": {
+    "retrieval_hit_rate": 1.0,
+    "citation_coverage": 1.0,
+    "faithfulness_proxy": "Not evaluated"
+  },
+  "latency_ms": {
+    "p50": 520.9,
+    "p95": 630.3,
+    "mean": 561.3
+  },
+  "deduplication": {
+    "cluster_precision_proxy": 1.0,
+    "note": "Proxy = largest MCI cluster size / generated callers."
+  },
+  "modality_conflict_demo": {
+    "kitchen_vs_structural_detected": true
+  },
+  "robustness_missing_modality": "Not evaluated",
+  "disclaimer": "Research prototype metrics on synthetic data only \u2014 not operational validation."
+}

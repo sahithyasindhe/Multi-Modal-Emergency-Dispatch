@@ -1,0 +1,19 @@
+{
+  "id": "kitchen_vs_structural_fire",
+  "title": "Modality Conflict Demo \u2014 Kitchen vs Structural Fire",
+  "transcript": "There's a small kitchen fire in my apartment. We used the extinguisher. Some smoke but I think it's under control.",
+  "lat": 37.771,
+  "lon": -122.419,
+  "address": "200 Fell St (DEMO)",
+  "landmark": "Residential block",
+  "scenario_hint": "apartment_fire",
+  "visual_overrides": {
+    "scene_type": "fire",
+    "fire_visible": true,
+    "smoke_present": true,
+    "structural_damage": true,
+    "persons_visible": 4,
+    "persons_down": 0,
+    "notes": "Vision: large structural fire with facade involvement."
+  }
+}

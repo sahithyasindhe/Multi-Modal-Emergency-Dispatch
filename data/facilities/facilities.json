@@ -1,0 +1,6 @@
+[
+  {"id": "fac_sf_gen", "name": "Metro General Hospital (DEMO)", "lat": 37.7562, "lon": -122.4058, "type": "hospital"},
+  {"id": "fac_sf_trauma", "name": "Bay Trauma Center (DEMO)", "lat": 37.7825, "lon": -122.3928, "type": "trauma"},
+  {"id": "fac_sf_fire1", "name": "Station 1 Fire/EMS (DEMO)", "lat": 37.7799, "lon": -122.4148, "type": "fire_station"},
+  {"id": "fac_sf_hazmat", "name": "Regional HAZMAT Cache (DEMO)", "lat": 37.7300, "lon": -122.3900, "type": "hazmat"}
+]

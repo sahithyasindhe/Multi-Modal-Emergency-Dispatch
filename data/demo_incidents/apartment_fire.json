@@ -1,0 +1,17 @@
+{
+  "id": "apartment_fire",
+  "title": "Apartment Fire \u2014 Possible Trapped",
+  "transcript": "Our apartment building is on fire! Heavy smoke on the third floor. I think someone is trapped upstairs. People are screaming and coming out. This is a big structural fire, not a small kitchen fire!",
+  "lat": 37.7695,
+  "lon": -122.421,
+  "address": "450 Hayes St (DEMO)",
+  "landmark": "Hayes Valley apartments",
+  "scenario_hint": "apartment_fire",
+  "visual_overrides": {
+    "fire_visible": true,
+    "smoke_present": true,
+    "structural_damage": true,
+    "persons_visible": 6,
+    "persons_down": 1
+  }
+}

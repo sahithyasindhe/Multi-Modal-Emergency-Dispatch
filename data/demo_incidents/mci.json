@@ -1,0 +1,11 @@
+{
+  "id": "mci",
+  "title": "Mass-Casualty Multi-Caller Event",
+  "transcript": "Multi-car pileup on the bridge approach! At least ten people injured, several not moving. Fuel is leaking. This is a mass casualty incident!",
+  "lat": 37.808,
+  "lon": -122.475,
+  "address": "Golden Gate approach (DEMO)",
+  "landmark": "Bridge approach",
+  "scenario_hint": "mci",
+  "visual_overrides": null
+}

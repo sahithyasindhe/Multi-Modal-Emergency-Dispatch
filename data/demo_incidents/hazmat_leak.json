@@ -1,0 +1,11 @@
+{
+  "id": "hazmat_leak",
+  "title": "HAZMAT Truck Leak",
+  "transcript": "A tanker truck overturned on the freeway. There's a chemical smell and a cloud. I can see a hazmat placard on the side. People are coughing nearby.",
+  "lat": 37.7312,
+  "lon": -122.3925,
+  "address": "US-101 near Cesar Chavez (DEMO)",
+  "landmark": "Freeway shoulder",
+  "scenario_hint": "hazmat_leak",
+  "visual_overrides": null
+}

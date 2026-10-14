@@ -1,0 +1,9 @@
+[
+  {"unit_id": "M-12", "unit_type": "BLS", "status": "available", "capability": ["bls"], "lat": 37.77, "lon": -122.42},
+  {"unit_id": "M-7", "unit_type": "ALS", "status": "available", "capability": ["als", "cardiac"], "lat": 37.78, "lon": -122.41},
+  {"unit_id": "E-3", "unit_type": "ENGINE", "status": "available", "capability": ["fire", "rescue"], "lat": 37.775, "lon": -122.418},
+  {"unit_id": "L-1", "unit_type": "LADDER", "status": "available", "capability": ["fire", "structure"], "lat": 37.77, "lon": -122.41},
+  {"unit_id": "HZ-1", "unit_type": "HAZMAT", "status": "available", "capability": ["hazmat"], "lat": 37.73, "lon": -122.39},
+  {"unit_id": "R-2", "unit_type": "RESCUE", "status": "busy", "capability": ["rescue", "extrication"], "lat": 37.76, "lon": -122.43},
+  {"unit_id": "SQ-5", "unit_type": "ENGINE_STRIKE", "status": "available", "capability": ["fire", "mci"], "lat": 37.765, "lon": -122.40}
+]

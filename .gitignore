@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Env / secrets
+.env
+*.pem
+*.key
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data / runtime
+data/chroma/
+data/sentinel.db
+*.db
+*.sqlite
+*.sqlite3
+models/*.pt
+models/*.bin
+models/*.onnx
+!models/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / caches
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+
+# Build
+dist/
+build/
+*.egg-info/
